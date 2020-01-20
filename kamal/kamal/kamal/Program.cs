@@ -11,6 +11,7 @@ namespace assignment1
         static void Main(string[] args)
         {
             //#A
+            // this is an edit on github
             Console.WriteLine("hello");
             Console.WriteLine("what is your name?");
             string name = Console.ReadLine();
