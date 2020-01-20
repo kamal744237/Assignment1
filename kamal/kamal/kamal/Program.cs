@@ -195,6 +195,30 @@ namespace assignment1
 
             //#b2
 
+            string firstname = "kamaljeet";
+            firstname = firstname.Substring(0, firstname.Length - 2) + "__";
+            Console.WriteLine(firstname);
+
+            //#b3
+
+            string a = "kamaljeet";
+            string newa = abc.Substring(5, 2);
+            Console.WriteLine(newa);
+
+            //#b4
+            Console.WriteLine("enter numbers:");
+            int naturalnumber = Convert.ToInt32(Console.ReadLine());
+            int j = 1;
+            for (j = 1; j <= naturalnumber; j++)
+            {
+                Console.WriteLine(j);
+            }
+
+            //b#5
+            Console.WriteLine("enter something");
+            string b5string = Console.ReadLine();
+            int countSpace = b5string.Count(Char.IsWhiteSpace);
+            Console.WriteLine("Number of spaces in string are = " + countSpace);
 
 
             Console.ReadLine();
