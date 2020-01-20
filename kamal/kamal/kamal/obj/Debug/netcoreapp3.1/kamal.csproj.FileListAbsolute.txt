@@ -1,0 +1,11 @@
+U:\Users\744237\csd3354_A1\kamal\kamal\kamal\bin\Debug\netcoreapp3.1\kamal.exe
+U:\Users\744237\csd3354_A1\kamal\kamal\kamal\bin\Debug\netcoreapp3.1\kamal.deps.json
+U:\Users\744237\csd3354_A1\kamal\kamal\kamal\bin\Debug\netcoreapp3.1\kamal.runtimeconfig.json
+U:\Users\744237\csd3354_A1\kamal\kamal\kamal\bin\Debug\netcoreapp3.1\kamal.runtimeconfig.dev.json
+U:\Users\744237\csd3354_A1\kamal\kamal\kamal\bin\Debug\netcoreapp3.1\kamal.dll
+U:\Users\744237\csd3354_A1\kamal\kamal\kamal\bin\Debug\netcoreapp3.1\kamal.pdb
+U:\Users\744237\csd3354_A1\kamal\kamal\kamal\obj\Debug\netcoreapp3.1\kamal.csprojAssemblyReference.cache
+U:\Users\744237\csd3354_A1\kamal\kamal\kamal\obj\Debug\netcoreapp3.1\kamal.AssemblyInfoInputs.cache
+U:\Users\744237\csd3354_A1\kamal\kamal\kamal\obj\Debug\netcoreapp3.1\kamal.AssemblyInfo.cs
+U:\Users\744237\csd3354_A1\kamal\kamal\kamal\obj\Debug\netcoreapp3.1\kamal.dll
+U:\Users\744237\csd3354_A1\kamal\kamal\kamal\obj\Debug\netcoreapp3.1\kamal.pdb

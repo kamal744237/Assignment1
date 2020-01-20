@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "U:\\Users\\744237\\csd3354_A1\\kamal\\kamal\\kamal.csproj",
+      "projectUniqueName": "U:\\Users\\744237\\csd3354_A1\\kamal\\kamal\\kamal\\kamal.csproj",
       "projectName": "kamal",
-      "projectPath": "U:\\Users\\744237\\csd3354_A1\\kamal\\kamal\\kamal.csproj",
+      "projectPath": "U:\\Users\\744237\\csd3354_A1\\kamal\\kamal\\kamal\\kamal.csproj",
       "packagesPath": "U:\\Users\\744237\\.nuget\\packages\\",
-      "outputPath": "U:\\Users\\744237\\csd3354_A1\\kamal\\kamal\\obj\\",
+      "outputPath": "U:\\Users\\744237\\csd3354_A1\\kamal\\kamal\\kamal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
